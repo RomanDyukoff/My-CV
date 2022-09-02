@@ -204,6 +204,10 @@ footer {
         /* letter-spacing: 1px; */
     }
 
+    .social {
+        padding: 0.5rem;
+    }
+
     .social__avatar {
         width: 250px;
         height: 250px;
